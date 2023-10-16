@@ -10,11 +10,11 @@ const recipes = [
     },
     {
       id: 2,
-      title: 'Macaroni & cheese',
-      description: 'Description for Recipe 2',
-      ingredients: ['Ingredient 1', 'Ingredient 2'],
+      title: 'Spaghetti Bolognase',
+      description: 'spahgetti served with sauce made from tomatoes,minced beef,garlic,wine and herbs',
+      ingredients: ['spaghdhetti', 'minced beef,garlic,tomatoes'],
       steps: ['Step 1', 'Step 2'],
-      imageUrl: 'https://example.com/recipe2.jpg',
+      imageUrl: 'https://www.recipetineats.com/wp-content/uploads/2018/07/Spaghetti-Bolognese.jpg?resize=350,350',
     },
     {
         id: 2,
