@@ -1,0 +1,35 @@
+/* src/RecipeDetail.css */
+h1 {
+    font-size: 32px;
+    margin-bottom: 20px;
+  }
+  
+  p {
+    font-size: 18px;
+    margin-bottom: 20px;
+  }
+  
+  img {
+    max-width: 100%;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-bottom: 20px;
+  }
+  
+  h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  ul {
+    list-style-type: disc;
+    margin-left: 20px;
+    font-size: 16px;
+  }
+  
+  ol {
+    list-style-type: decimal;
+    margin-left: 20px;
+    font-size: 16px;
+  }
+  

@@ -19,10 +19,10 @@ const recipes = [
     {
         id: 3,
         title: 'Garlic Chicken',
-        description: 'Description for Recipe 2',
+        description: '“Inspired by some of the wonderful flavours of Lebanon, this quick dish is perfect for an easy meal. Hunting out nice fat jarred chickpeas is game-changing when it comes to both flavour and texture. ',
         ingredients: ['4 cloves of Garlic', '250g baby spinach','1 heaped tespoon sumac 700g cheackpeas'],
         steps: ['Step 1', 'Step 2'],
-        imageUrl: '',
+        imageUrl: 'https://img.jamieoliver.com/jamieoliver/recipe-database/152012102.jpg?tr=w-330',
       },
     // Add more recipes as needed
   ];
